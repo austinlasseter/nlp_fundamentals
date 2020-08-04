@@ -1,0 +1,11 @@
+Notebook: MLP Classification
+Now, you're ready to define and train an MLP in PyTorch. As you follow along this lesson, you are encouraged to open the referenced Jupyter notebooks. We will present a solution to you, but please try creating your own deep learning models! Much of the value in this experience will come from experimenting with the code, in your own way.
+
+To open this notebook, you have two options:
+
+Go to the next page in the classroom (recommended).
+Clone the repo from Github and open the notebook mnist_mlp_exercise.ipynb in the convolutional-neural-networks > mnist-mlp folder. You can either download the repository with git clone https://github.com/udacity/deep-learning-v2-pytorch.git, or download it as an archive file from this link.
+Instructions
+Define an MLP model for classifying MNIST images
+Train it for some number of epochs and test your model to see how well it generalizes and measure its accuracy.
+This is a self-assessed lab. If you need any help or want to check your answers, feel free to check out the solutions notebook in the same folder, or by clicking here.
