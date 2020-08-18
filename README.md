@@ -27,6 +27,7 @@ related repo: https://github.com/austinlasseter/deep-learning-v2-pytorch
 
 
 ## Lesson 2: Implementation of RNN & LSTM
+[Anna Karenina text generation example](https://github.com/austinlasseter/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/char-rnn/Character_Level_RNN_Solution.ipynb)
 [the Simple_RNN.ipynb notebook](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/recurrent-neural-networks/time-series/Simple_RNN.ipynb)
 
 | Number      | Title | Resource |
